@@ -1,0 +1,11 @@
+Package: mimifunction
+Type: Package
+Title: Reminder and cheater
+Author: Manca
+Maintainer: The package maintainer <manca.kok@gmail.com>
+Description: Reminds me of important things and prints out the code to answer exercises from Q3.1.
+Version: 0.1.0
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
